@@ -1,6 +1,7 @@
-#########################
-#Basic Python Mario Game#
-#########################
+
+#  Basic Python Mario Game
+
+
 
 Mario will follow the coin in a predetermined period.
 When he touched the coin, the score will be plus 10 points.
