@@ -47,6 +47,6 @@ def time_up():
     game_over = True
     music.stop()
 
-clock.schedule(time_up, 5.0)
+clock.schedule(time_up, 20.0)
 coin_position()
 pgzrun.go()
